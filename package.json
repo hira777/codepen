@@ -1,0 +1,17 @@
+{
+  "name": "codepen",
+  "version": "1.0.0",
+  "description": "My Public Pens",
+  "scripts": {
+    "serve": "http-server -o"
+  },
+  "author": "soarflat",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "http-server": "^0.10.0",
+    "prettier": "^1.12.1"
+  }
+}
